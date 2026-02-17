@@ -6,8 +6,6 @@
 
 **A privacy-first, self-hosted autonomous AI agent framework designed for secure, ethical, and accessible deployment.**
 
-> **Submission for Japan Youth Summit 2026 - SDG 9: Industry, Innovation, and Infrastructure**
-
 ---
 
 ## 📖 Overview
