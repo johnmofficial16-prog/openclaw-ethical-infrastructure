@@ -1,0 +1,25 @@
+{
+  "gateway": {
+    "auth": {
+      "token": "YOUR_GATEWAY_TOKEN_HERE" 
+    }
+  },
+  "providers": {
+    "ollama-local": {
+      "api": "openai-completions",
+      "baseUrl": "http://100.x.y.z:11434/v1",
+      "models": [
+        {
+          "id": "qwen-fast",
+          "contextWindow": 16384,
+          "maxTokens": 4096
+        }
+      ]
+    }
+  },
+  "conversations": {
+    "history": {
+      "limit": 20
+    }
+  }
+}
